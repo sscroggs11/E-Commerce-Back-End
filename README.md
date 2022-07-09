@@ -24,12 +24,23 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ##Usage 
-1edit the env to your credential
-2use npm i to install dependencies
-3.use mysql -u root -p to login to your mysql shell
-4.use SOURCE db/schema.sql;
-5.quit out of your shell
-6.
+
+1. edit the env to your credential
+
+2. use npm i to install dependencies
+
+3. use mysql -u root -p to login to your mysql shell
+
+4. use SOURCE db/schema.sql;
+
+5. quit out of your shell
+
+6. use npm run seed
+
+7. use npm start to run the server
+
+8. use insomnia or similar software to navigate get,post,put,and delete requests from the tags, categories, or products routes.
+9.watch walkthrough below to see the full functionality.
 
 ##Link To Walkthrough (https://drive.google.com/file/d/1SDbB42SgMXOVhMq__VmxJ9aaMuQjVmgJ/view?usp=sharing)
 
