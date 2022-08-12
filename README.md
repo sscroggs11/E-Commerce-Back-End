@@ -1,7 +1,7 @@
 # E-Commerce-Back-End
 E-commerce-Back-End
 
-##Description IVEN a functional Express.js API
+##Description GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
 WHEN I enter schema and seed commands
